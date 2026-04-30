@@ -1,17 +1,3 @@
-## Hi there 👋
-
-<!--
-**Illo123/Illo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...# Hey, ich bin Ilyas 👋
-
 AI Developer aus Hamburg. Ich baue Web-Apps und LLM-Integrationen — von der Idee bis live deployed.
 
 ## Was ich mache
@@ -40,4 +26,3 @@ AI Developer aus Hamburg. Ich baue Web-Apps und LLM-Integrationen — von der Id
 
 - ⚡ Fun fact: Ich bin ausgebildeter Fachinformatiker für Anwendungsentwicklung — 
 aber ich schreibe keinen Code mehr. Ich vibecode.
--->
